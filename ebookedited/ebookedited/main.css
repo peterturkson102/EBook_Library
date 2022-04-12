@@ -1,0 +1,62 @@
+h1{
+	font-family:helvetica , sans-serif ;font-size:38px;font-weight:lighter;
+	margin: 60px 100px 0px 50px;
+	padding: 0px 100px;
+}
+label{
+	font-family: arial ;font-size:16px;font-weight:lighter;
+}
+p{
+	font-family: arial ;font-size:14px;font-weight:lighter;
+	margin-bottom: 30px;
+}
+label{
+	float: left; width: 200px;
+}
+h2{
+	font-family:helvetica , sans-serif ;font-size:38px;font-weight:lighter;
+}
+h2{
+	background-color: gray;
+	padding-top: 50px; 
+	padding-bottom: 
+}
+input[type=text]{
+	border: none; 
+	width: 200px;
+	outline: none; 
+	padding-right: 10px;
+	 border-bottom: 2px solid gray;
+}
+input[type=password]{
+	border: none; 
+	width: 200px;
+	outline: none; 
+	padding-right: 10px;
+	 border-bottom: 2px solid gray;
+}
+input[type=submit]{
+	border: 2px solid gray ; border-radius: 100px;
+	color: gray;background-color: white;
+	padding: 20px;
+	text-decoration: none;
+	margin: 4px 2px;
+	width: 100px;
+	cursor: pointer;
+}
+.one{
+	background-color: green;text-align: center;
+	width: 200px;height: 200px;float: left;
+
+}
+.two{
+	background-color: orange ;text-align: center;
+	width: 200px;height: 200px;
+	float: left;
+}
+.three{
+	background-color: green;text-align: center;
+	width: 200px;height: 200px;
+	float: left;
+
+}
