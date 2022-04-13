@@ -22,7 +22,7 @@ if(!empty($_POST["logout"])) {
     <head>
         <meta charset="UTF-8" />
        
-		<title> G4 Log In  </title>
+		<title> Turk Log In  </title>
 
     <link rel="stylesheet" href="main.css"/>
       <link rel="stylesheet" type="text/css" href="css/style0.css" />

@@ -24,7 +24,7 @@ if( isset($_SESSION['user_id']) ){
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Welcome to G4</title>
+	<title>Welcome to Turk</title>
 	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
 	<link  rel='stylesheet' type='text/css'>
 </head>
@@ -47,7 +47,7 @@ body {
 </style>
 
 	<div class="header">
-		<center><h2><a href="/">G4</a></h2></center>
+		<center><h2><a href="/">Turk</a></h2></center>
 	</div>
 
 	<?php if( !empty($user) ): ?>
@@ -56,7 +56,7 @@ body {
 
 	<?php else: ?>
 
-		<center><h1> All the books you want </h1></center>
+		<center><h1> All the books you need </h1></center>
 		<center><a href="login.php"><input type="button" value="LogIn" ></a><br><br> or</center>
 		
 		<br><br>
