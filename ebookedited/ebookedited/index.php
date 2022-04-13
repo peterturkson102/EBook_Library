@@ -24,7 +24,7 @@ if( isset($_SESSION['user_id']) ){
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Welcome to G4</title>
+	<title>Welcome to Turk Library</title>
 	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
 	<link  rel='stylesheet' type='text/css'>
 </head>
